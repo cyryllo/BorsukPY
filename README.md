@@ -16,13 +16,13 @@ Robot Borsuk project based on a motor and servo controller cradle from waveshare
 
 |  Name | PIN  |  Function |
 |---|---|---|
-| A  | Pin10  |  Up |
-| B | Pin11  |  Left | 
-| C |  Pin9 |  Right |
-| D | Pin8  |  Down |
-| E | Pin7  |  Select |
-| F |  Pin6 |  Mode |
-| X |  Pin4 | Joystick X  |
-| Y | Pin3  | Joystick Y |
-| P |  Pin5 | Joystick Press  |
-| Buzzer |  Pin0 |  Buzzer (optional) |
+| Up  | Pin10  |  Up |
+| Left | Pin11  |  Left | 
+| Right |  Pin9 |  Right |
+| Down | Pin8  |  Down |
+| Select | Pin7  |  Select |
+| Mode |  Pin6 |  Mode |
+| JX |  Pin4 | Joystick X  |
+| JY | Pin3  | Joystick Y |
+| JB |  Pin5 | Joystick Press  |
+| BUZZ |  Pin0 |  Buzzer (optional) |

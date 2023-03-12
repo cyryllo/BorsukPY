@@ -1,7 +1,7 @@
 # BorsukPY
 Python library for the robot Borsuk
 
-![icon.png](https://github.com/cyryllo/BorsukPY/blob/main/icon.jpg)
+![icon.jpg](https://github.com/cyryllo/BorsukPY/blob/main/icon.jpg)
 
 Robot Borsuk project based on a motor and servo controller cradle from waveshare electronics. The control device is the Micro:bit. The robot is made of plywood and moves on 360 degree servos or in the v2 version on DC motors. More functions and robot modules will gradually be added.
 
@@ -9,6 +9,8 @@ Robot Borsuk project based on a motor and servo controller cradle from waveshare
 
 
 ## Control JoyStick
+
+![joystick.jpg](https://github.com/cyryllo/BorsukPY/blob/main/joystick.jpg)
 
 |  Name | PIN  |  Function |
 |---|---|---|

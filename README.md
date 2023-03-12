@@ -12,6 +12,8 @@ Robot Borsuk project based on a motor and servo controller cradle from waveshare
 
 ![joystick.jpg](https://github.com/cyryllo/BorsukPY/blob/main/joystick.jpg)
 
+### Pinout:
+
 |  Name | PIN  |  Function |
 |---|---|---|
 | A  | Pin10  |  Up |

@@ -1,5 +1,5 @@
 from microbit import *
-import joystick
+from joystick import *
 while True:
     if JoyStick.Down.read_digital() == 0: 
         print("A")
